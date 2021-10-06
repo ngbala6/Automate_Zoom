@@ -4,7 +4,7 @@ __Zoom Application Starts at Specified time with their meeting link and passcode
 
 ### 🌞 Prerequisites
 
-* For Windows, download from "zoom website" and install
+* For Windows, download from "zoom website" and install, I am using Zoom v5.8.0
 
 * Install Zoom in Ubuntu 18.04
 
