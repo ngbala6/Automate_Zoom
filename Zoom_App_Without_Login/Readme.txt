@@ -6,7 +6,5 @@ https://websiteforstudents.com/install-zoom-for-linux-client-on-ubuntu-16-04-17-
 
 download deb file and do "sudo dpkg -i zoom.deb"
 
-conf
-
-This is for already signed in Zoom
+not signed in zoom
 
