@@ -1,4 +1,4 @@
-### Zoom Application Automation using Python
+# Zoom Application Automation using Python
 
 __Zoom Application Starts at given time with their meeting link and passcode__
 
@@ -13,6 +13,8 @@ https://websiteforstudents.com/install-zoom-for-linux-client-on-ubuntu-16-04-17-
 download deb file and do "sudo dpkg -i zoom.deb"
 
 For Windows, download from "zoom website" and install
+
+Chrome Driver Download : https://chromedriver.chromium.org/getting-started
 
 ### Configuration
 
