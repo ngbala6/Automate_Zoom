@@ -17,7 +17,7 @@ class ZoomApp_Automation:
         # job =
         print(configurations.get("Time", "Start_Time"))
 
-        schedule.every().wednesday.at(configurations.get("Time", "Start_Time")).do(self.signIn, configurations.get('Authentication', 'MeetingID'), configurations.get('Authentication', 'Passcode'))
+        schedule.every().day.at(configurations.get("Time", "Start_Time")).do(self.signIn, configurations.get('Authentication', 'MeetingID'), configurations.get('Authentication', 'Passcode'))
         # schedule.every().day.at(configurations.get("Time", "Start_Time")).do(self.ss, "super")
 
         while True:

@@ -16,7 +16,10 @@ https://websiteforstudents.com/install-zoom-for-linux-client-on-ubuntu-16-04-17-
 
 download deb file and do "sudo dpkg -i zoom.deb"
 
-
+* Install Python Package
+```
+pip install pyautogui schedule
+```
 
 ### 🌞 Configuration
 
@@ -24,7 +27,7 @@ Edit the Config file such as ___Start_Time, MeetingLink, Passcode, Application_I
 
 Each Script inside the folder is designed for different Scenarios(without Login, With Login in Zoom) . . . Please read the respective Readme and use that best suits
 
-This app is designed at Every Wednesday at your specified time. 
+This app is designed at Every day at your specified time. 
 
 ### 🌞 License & Copyright
 Copyright © 2021 by **Bala Murugan N G**
