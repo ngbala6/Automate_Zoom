@@ -21,6 +21,14 @@ download deb file and do "sudo dpkg -i zoom.deb"
 pip install pyautogui schedule
 ```
 
+* Set Zoom Settings
+
+##### Keep Audio Settings like this:
+<img src = "Extras/zoom_audio.png" width = "600">
+
+##### Keep Video Settings like this:
+<img src = "Extras/zoom_video.png" width = "600">
+
 ### 🌞 Configuration
 
 Edit the Config file such as ___Start_Time, MeetingLink, Passcode, Application_Installed_Location___
