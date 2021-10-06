@@ -1,8 +1,8 @@
-# Zoom Application Automation using Python
+# 🐦Zoom Application Automation using Python🐦
 
 __Zoom Application Starts at Specified time with their meeting link and passcode__
 
-### Prerequisites
+### 🌞 Prerequisites
 
 * For Windows, download from "zoom website" and install
 
@@ -18,7 +18,7 @@ download deb file and do "sudo dpkg -i zoom.deb"
 
 
 
-### Configuration
+### 🌞 Configuration
 
 Edit the Config file such as ___Start_Time, MeetingLink, Passcode, Application_Installed_Location___
 
@@ -26,8 +26,8 @@ Each Script inside the folder is designed for different Scenarios(without Login,
 
 This app is designed at Every Wednesday at your specified time. 
 
-### License & Copyright
-© 2021 Bala Murugan N G
+### 🌞 License & Copyright
+Copyright © 2021 by **Bala Murugan N G**
 
 Licensed under [Apache License 2.0](https://github.com/ngbala6/Automate_Zoom/blob/master/LICENSE) 
 
