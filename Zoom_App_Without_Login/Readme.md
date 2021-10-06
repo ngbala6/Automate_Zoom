@@ -1,4 +1,4 @@
-### Zoom Application Automation using Python
+# Zoom Application Automation using Python
 
 __Zoom Application Starts at given time with their meeting link and passcode__
 
