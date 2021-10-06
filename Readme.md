@@ -1,12 +1,12 @@
 # 🐦Zoom Application Automation using Python🐦
 
-[Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ngbala6/Automate_Zoom&title=Views)![GitHub repo stars](https://img.shields.io/github/stars/ngbala6/Automate_Zoom?style=social)
+<!-- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ngbala6/Automate_Zoom&title=Views)![GitHub repo stars](https://img.shields.io/github/stars/ngbala6/Automate_Zoom?style=social) -->
 
 __Zoom Application Starts at Specified time with their meeting link and passcode__
 
 ### 🌞 Prerequisites
 
-* For Windows, download from "zoom website" and install, I am using Zoom v5.8.0
+* For Windows, download from "zoom website" and install. I am using Zoom v5.8.0
 
 * Install Zoom in Ubuntu 18.04
 
